@@ -66,3 +66,5 @@ alias find-port="ps aux | grep"
 # alias find-3100="lsof -i:3100"
 # alias kill-3100="kill -9 $(lsof -t -i:3100)"
 alias reload="exec zsh"
+
+export EDITOR=vim
