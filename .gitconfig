@@ -12,3 +12,5 @@
 [user]
 	name = Chris Poirier
 	email = voiid@users.noreply.github.com
+[alias]
+	please = push --force-with-lease
